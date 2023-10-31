@@ -1,5 +1,5 @@
 import {
-  incrementCustomProperty,
+  incrementCustomProperty, 
   setCustomProperty,
   getCustomProperty,
 } from "./updateCustomProperty.js"
