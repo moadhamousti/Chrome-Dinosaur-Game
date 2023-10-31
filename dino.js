@@ -3,7 +3,7 @@ import {
   setCustomProperty,
   getCustomProperty,
 } from "./updateCustomProperty.js"
-
+ 
 const dinoElem = document.querySelector("[data-dino]")
 const JUMP_SPEED = 0.45
 const GRAVITY = 0.0015
