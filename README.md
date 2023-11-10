@@ -1,4 +1,4 @@
-# Chrome Dinosaur Game 🦖 🎮 :
+# Chrome Dinosaur Game 🦖 🎮 : 
 
 ### Screen Shoot 📷 : 
 
