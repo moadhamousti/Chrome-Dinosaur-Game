@@ -1,4 +1,4 @@
-import {
+import { 
   incrementCustomProperty, 
   setCustomProperty,
   getCustomProperty,
